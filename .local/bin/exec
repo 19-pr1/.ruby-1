@@ -20,7 +20,7 @@ main() {
 		gem install --no-document --user-install --bindir "$HOME"/bin rubocop
 	fi
 
-	exec "$@"
+	builtin exec "$@"
 }
 
 main "$@"
