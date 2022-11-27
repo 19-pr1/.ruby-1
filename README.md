@@ -14,7 +14,7 @@
 
 ---
 
-**DİKKAT!  AŞAĞIDAKİ AÇIKLAMALARI OKUMADAN ÖDEVE BAŞLAMAYIN!***
+**DİKKAT!  AŞAĞIDAKİ AÇIKLAMALARI OKUMADAN ÖDEVE BAŞLAMAYIN!**
 
 1. Birden fazla Github hesabınız varsa ödevde tutarlı olarak sadece bir hesap kullanın.  Birden fazla Github hesabı
    üzerinden ödevin birden fazla kopyasını oluşturmayın.  Bu durumda olan depoları "Settings"e girerek "Delete this
