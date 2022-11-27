@@ -21,7 +21,7 @@
 2. Programda istenen çıktıların büyük/küçük harf farkları ve varsa boşluklarla birlikte tam olarak açıklandığı gibi
    yazıldığına emin olun.
 
-3. Dizinde bulacağınız [`main.rb`](./main.rb) isimli şablon kodda **sadece** `=== WRITE CODE HERE ===` yazan bölgeyi
+3. Dizinde bulacağınız [`main.rb`](./main.rb) isimli şablon kodda **sadece** `=== WRITE CODE ===` yazan bölgeyi
    düzenleyin. **Dosyanın adını değiştirmeyin veya (aksi belirtilmedikçe) başka bir dosya açarak düzenleme yapmayın.**
 
 4. Depoyu açtığınızda ödev dosyalarını tarayıcıda veya (bu satırları okurken) `.` (nokta) tuşuna basarak Web üzerinde
