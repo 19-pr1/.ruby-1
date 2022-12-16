@@ -30,8 +30,13 @@
    gibi koruyun ve kendiniz veri girişi yapan bir kod yazmaya çalışmayın.**  Aksi halde programınız testlerde hata
    verecektir.
 
-5. Depoyu açtığınızda ödev dosyalarını tarayıcıda veya (bu satırları okurken) `.` (nokta) tuşuna basarak Web üzerinde
+5. Yazdığınız kodda Rubocop ile basitleştirilmiş düzeyde [kod denetimi](https://ruby.style/) yapılmakta ve bu
+   denetiminden geçemeyen ödevlerden puan kırılmaktadır.  Denetleme sırasında ortaya çıkan hataları düzeltmek amacıyla,
+   puanınızı görmek için girdiğiniz sayfadaki hata iletilerinde görülen doküman bağlantılarına tıklayarak bilgi
+   alabilirsiniz.
+
+6. Depoyu açtığınızda ödev dosyalarını tarayıcıda veya (bu satırları okurken) `.` (nokta) tuşuna basarak Web üzerinde
    Visual Studio Code ile düzenleyebilirsiniz.
 
-6. Depoda nokta ile başlayan dosya ve dizinlerde (ör. `.github`, `.vscode`) **düzenleme yapmayın**.  Bu dosyalara
+7. Depoda nokta ile başlayan dosya ve dizinlerde (ör. `.github`, `.vscode`) **düzenleme yapmayın**.  Bu dosyalara
    yapılan müdahaleler izlenmekte olup kurala uymayanların ödevleri geçersiz sayılacaktır.
